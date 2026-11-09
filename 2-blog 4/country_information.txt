@@ -1,0 +1,8 @@
+[
+    {
+        "name": "India",
+        "area": 3287590,
+        "capital": "New Delhi",
+        "population": 1263930000
+    }
+]
